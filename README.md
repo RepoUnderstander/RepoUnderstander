@@ -7,4 +7,4 @@
 - It achieves 5.3\% improvement on SWE-bench Lite. 
 
 ![image](https://github.com/RepoUnderstander/RepoUnderstander/assets/170649488/8740ff56-3bf4-41b5-846a-7972d20bd743)
-<img src="https://github.com/RepoUnderstander/RepoUnderstander/assets/170649488/8740ff56-3bf4-41b5-846a-7972d20bd743" alt="desc" width="200" height="150">
+<img src="https://github.com/RepoUnderstander/RepoUnderstander/assets/170649488/8740ff56-3bf4-41b5-846a-7972d20bd743" alt="desc" style="width:50%;">
