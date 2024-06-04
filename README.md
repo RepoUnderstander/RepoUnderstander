@@ -8,5 +8,4 @@
 
 **Code is coming soon!**
 
-
-<img src="https://github.com/RepoUnderstander/RepoUnderstander/assets/170649488/8740ff56-3bf4-41b5-846a-7972d20bd743" alt="desc" style="width:70%;">
+![20240604225103](https://github.com/RepoUnderstander/RepoUnderstander/assets/170649488/7f9a862a-48b1-47d4-a287-dd4705a6d5d3)
