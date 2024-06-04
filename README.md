@@ -4,7 +4,7 @@
 
 - Recently, Large Language Model (LLM) based agents have advanced the significant development of Automatic Software Engineering (ASE).
 - We develop a novel ASE method named RepoUnderstander by guiding agents to comprehensively understand the whole repositories.
-- It achieves 5.3\% improvement on SWE-bench Lite. 
+- It achieved 18.5% relative improvement on the SWE-bench Lite benchmark compared to SWE-agent.
 
 **Code is coming soon!**
 
